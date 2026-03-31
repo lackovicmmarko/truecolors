@@ -1,0 +1,1869 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Printism - Printing and Design Service Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/askproject.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/projects\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "http:\/\/askproject.net\/printism\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.8.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.7.8",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        },
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "2.0.2",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.13",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo_Asset-7.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/logo_Asset-7-800x259.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 16104,
+            "dimensions": [
+                1187,
+                385
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo_Asset-8.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/logo_Asset-8-800x259.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 15870,
+            "dimensions": [
+                1187,
+                385
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_7.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/client_7-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 22644,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/client_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 29678,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/client_6-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 29299,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "young-man-working-at-print-factory-XNAQVE3.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/young-man-working-at-print-factory-XNAQVE3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 165181,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XNAQVE3"
+        },
+        {
+            "filename": "shape_Asset-10.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-10.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 6336,
+            "dimensions": [
+                475,
+                475
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape_Asset-9.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-9-800x400.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 10117,
+            "dimensions": [
+                950,
+                475
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-handling-paper-stacks-at-printing-factory-PEGZN2L.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/man-handling-paper-stacks-at-printing-factory-PEGZN2L-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 145945,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PEGZN2L"
+        },
+        {
+            "filename": "shape_Asset-13.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-13.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 7818,
+            "dimensions": [
+                601,
+                601
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Magazine-Mockup-V01-Floating.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/Magazine-Mockup-V01-Floating-800x574.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 72712,
+            "dimensions": [
+                997,
+                715
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shapebg_31.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shapebg_31-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 34896,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/icon_1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 27587,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/icon_2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 88638,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/icon_3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 36246,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/icon_4-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 38102,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/icon_5-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 52345,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon_6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/icon_6-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 43422,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-packing-boxes-at-print-factory-EBXA3V3-e1668564427215.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/man-packing-boxes-at-print-factory-EBXA3V3-e1668564427215-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 258591,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EBXA3V3"
+        },
+        {
+            "filename": "bgoverlay_4-e1668564446339.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/bgoverlay_4-e1668564446339-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 41702,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bgoverlay_5-e1668564408431.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/bgoverlay_5-e1668564408431-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 41463,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bgoverlay_6-e1668564392979.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/bgoverlay_6-e1668564392979-800x2000.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 24605,
+            "dimensions": [
+                1000,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shapebg_32.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shapebg_32-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 34000,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mockup_1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/Mockup_1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 124687,
+            "dimensions": [
+                1073,
+                715
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mockup_4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/Mockup_4-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 204181,
+            "dimensions": [
+                1382,
+                922
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mockup_3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/Mockup_3-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 201535,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mockup_2.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/Mockup_2-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 184447,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shapebg_7.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shapebg_7-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 34654,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "thankful-and-relieved-happy-woman-holding-hands-in-JXMX2YZ-copy.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/thankful-and-relieved-happy-woman-holding-hands-in-JXMX2YZ-copy-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 100247,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JXMX2YZ"
+        },
+        {
+            "filename": "shape_Asset-14.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-14.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4920,
+            "dimensions": [
+                501,
+                251
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "lifestyle-concept-close-up-portrait-young-beauti-NF9KU3S-copy.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/lifestyle-concept-close-up-portrait-young-beauti-NF9KU3S-copy-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 97320,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NF9KU3S"
+        },
+        {
+            "filename": "shape_Asset-16.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-16.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4916,
+            "dimensions": [
+                500,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "waist-up-friendly-cheerful-teenage-asian-college-g-FJMJ4NU-copy.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/waist-up-friendly-cheerful-teenage-asian-college-g-FJMJ4NU-copy-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 117130,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FJMJ4NU"
+        },
+        {
+            "filename": "client_1.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/client_1-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 32526,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_3.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/client_3-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 30545,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_4.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/client_4-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 15821,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/client_5-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 33140,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_8.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/client_8-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 32290,
+            "dimensions": [
+                1000,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "worker-at-printing-factory-JQSQLR6.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/worker-at-printing-factory-JQSQLR6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 253093,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JQSQLR6"
+        },
+        {
+            "filename": "shape_Asset-17.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-17.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 6594,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape_Asset-15.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-15.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 4872,
+            "dimensions": [
+                500,
+                250
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shapebg_8.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shapebg_8-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 34625,
+            "dimensions": [
+                2500,
+                2500
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "white-paper-at-printshop-UY69R5M.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/white-paper-at-printshop-UY69R5M-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 108588,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UY69R5M"
+        },
+        {
+            "filename": "shapebg_10.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shapebg_10-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 25707,
+            "dimensions": [
+                2500,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Mockup_6.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/Mockup_6-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 212403,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "smiling-asian-guy-looking-happy-at-camera-cross-a-4BKFZNZ.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/smiling-asian-guy-looking-happy-at-camera-cross-a-4BKFZNZ.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 211269,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4BKFZNZ"
+        },
+        {
+            "filename": "people-emotions-lifestyle-leisure-and-beauty-conc-UE5QZUW.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/people-emotions-lifestyle-leisure-and-beauty-conc-UE5QZUW.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 189799,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UE5QZUW"
+        },
+        {
+            "filename": "close-up-portrait-of-smiling-enthusiastic-hispani-CT5PB4V.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/close-up-portrait-of-smiling-enthusiastic-hispani-CT5PB4V.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 162335,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CT5PB4V"
+        },
+        {
+            "filename": "workers-doing-quality-control-at-printing-factory-4MAEZNG.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/workers-doing-quality-control-at-printing-factory-4MAEZNG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 220334,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4MAEZNG"
+        },
+        {
+            "filename": "shape_Asset-18.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-18.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 8543,
+            "dimensions": [
+                500,
+                502
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape_Asset-19.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-19.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 7951,
+            "dimensions": [
+                503,
+                502
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape_Asset-20.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-20.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 8603,
+            "dimensions": [
+                510,
+                504
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "packing-boxes-at-print-factory-PFT8KCM.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/packing-boxes-at-print-factory-PFT8KCM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 177106,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFT8KCM"
+        },
+        {
+            "filename": "man-putting-paper-in-printing-machine-DQZR8V7.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/man-putting-paper-in-printing-machine-DQZR8V7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 162880,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DQZR8V7"
+        },
+        {
+            "filename": "man-holding-paper-at-printing-factory-E7BKXBS.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/man-holding-paper-at-printing-factory-E7BKXBS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 192510,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E7BKXBS"
+        },
+        {
+            "filename": "worker-in-printing-shop-V34MM6D.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/worker-in-printing-shop-V34MM6D-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 214666,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V34MM6D"
+        },
+        {
+            "filename": "portrait-of-business-woman-with-enthusiastic-face-BUEUJFR.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/portrait-of-business-woman-with-enthusiastic-face-BUEUJFR.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 230693,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUEUJFR"
+        },
+        {
+            "filename": "hire-employement-and-company-concept-cheerful-go-VCLQ7MK.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/hire-employement-and-company-concept-cheerful-go-VCLQ7MK.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 226839,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VCLQ7MK"
+        },
+        {
+            "filename": "cheerful-healthy-handsome-man-in-sportswear-holdi-XBDPJBL.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/cheerful-healthy-handsome-man-in-sportswear-holdi-XBDPJBL.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 132867,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XBDPJBL"
+        },
+        {
+            "filename": "Mockup_5.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/Mockup_5-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/projects.json",
+                    "name": "Projects"
+                }
+            ],
+            "filesize": 78581,
+            "dimensions": [
+                1112,
+                741
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "man-working-at-print-factory-E7BKXBS.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/man-working-at-print-factory-E7BKXBS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 216496,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E7BKXBS"
+        },
+        {
+            "filename": "man-using-industrial-printing-machine-E7BKXBS.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/man-using-industrial-printing-machine-E7BKXBS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 206391,
+            "dimensions": [
+                2100,
+                1400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E7BKXBS"
+        },
+        {
+            "filename": "printing-factory-background-L7Y47VC.jpg",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/printing-factory-background-L7Y47VC-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 237373,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L7Y47VC"
+        },
+        {
+            "filename": "shape_Asset-12.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/shape_Asset-12.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 8332,
+            "dimensions": [
+                601,
+                601
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404_Asset-21.png",
+            "thumbnail_url": "http:\/\/askproject.net\/printism\/wp-content\/uploads\/sites\/114\/2022\/11\/404_Asset-21-800x309.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 12465,
+            "dimensions": [
+                1001,
+                387
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

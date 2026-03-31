@@ -1,0 +1,1005 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Cabinet",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/web.sociolib.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/shop\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Product",
+            "screenshot": "screenshots\/product.jpg",
+            "source": "templates\/product.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/product\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Promotion",
+            "screenshot": "screenshots\/promotion.jpg",
+            "source": "templates\/promotion.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/promotion\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "landing-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Reviews",
+            "screenshot": "screenshots\/reviews.jpg",
+            "source": "templates\/reviews.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/reviews\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Post",
+            "screenshot": "screenshots\/post.jpg",
+            "source": "templates\/post.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Mega Menu",
+            "screenshot": "screenshots\/mega-menu.jpg",
+            "source": "templates\/mega-menu.json",
+            "preview_url": "https:\/\/web.sociolib.com\/cabinet\/template-kit\/mega-menu\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.10.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo5.png",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/logo5.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1544,
+            "dimensions": [
+                220,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "c1.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 56613,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c5.png",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                }
+            ],
+            "filesize": 4907,
+            "dimensions": [
+                335,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c2.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 36039,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c4.png",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                }
+            ],
+            "filesize": 9561,
+            "dimensions": [
+                305,
+                416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c8.png",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 10982,
+            "dimensions": [
+                318,
+                319
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "19.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 37144,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "25.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/25.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 13354,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/HtF2wx-_R8s"
+        },
+        {
+            "filename": "c3.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 55932,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c15.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 27152,
+            "dimensions": [
+                500,
+                333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c19.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c19.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17367,
+            "dimensions": [
+                500,
+                333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c13.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 23279,
+            "dimensions": [
+                500,
+                333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c6.png",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 25435,
+            "dimensions": [
+                487,
+                511
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c12.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 25783,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c11.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 50519,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c9.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 25270,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c10.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 38091,
+            "dimensions": [
+                500,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "33.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/33.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                }
+            ],
+            "filesize": 37147,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/JUJ5osLgXpQ"
+        },
+        {
+            "filename": "c20.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c20.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/product.json",
+                    "name": "Product"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                }
+            ],
+            "filesize": 38847,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "43.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/43.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 25402,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/VDPauwJ_sHo"
+        },
+        {
+            "filename": "c16.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c16.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 53187,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "45.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/45-800x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 122798,
+            "dimensions": [
+                1920,
+                860
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/iyOEfpWjky0"
+        },
+        {
+            "filename": "c26.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c26-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                }
+            ],
+            "filesize": 128219,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c25.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c25.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                }
+            ],
+            "filesize": 8888,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c24.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c24.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                }
+            ],
+            "filesize": 10636,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "28.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                }
+            ],
+            "filesize": 9240,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/uXgDKWW5Q_o"
+        },
+        {
+            "filename": "36.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/36.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 100470,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/HtF2wx-_R8s"
+        },
+        {
+            "filename": "17-1.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/17-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                }
+            ],
+            "filesize": 65413,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/BBPMEubTT-w"
+        },
+        {
+            "filename": "c28.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c28.jpg",
+            "templates": [
+                {
+                    "source": "templates\/promotion.json",
+                    "name": "Promotion"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 57764,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "c27.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/c27-800x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 117618,
+            "dimensions": [
+                1920,
+                860
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "48.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/48-800x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 170847,
+            "dimensions": [
+                1920,
+                860
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/lLDh9JppH2c"
+        },
+        {
+            "filename": "50.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/50-800x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 103699,
+            "dimensions": [
+                1920,
+                860
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/skLqGtLrYKc"
+        },
+        {
+            "filename": "54.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/02\/54.jpg",
+            "templates": [
+                {
+                    "source": "templates\/reviews.json",
+                    "name": "Reviews"
+                }
+            ],
+            "filesize": 39331,
+            "dimensions": [
+                800,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/QCHJ632ZBD"
+        },
+        {
+            "filename": "52.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/52-800x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 122689,
+            "dimensions": [
+                1920,
+                860
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/zXFtsdi9dIc"
+        },
+        {
+            "filename": "53.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/53-800x358.jpg",
+            "templates": [
+                {
+                    "source": "templates\/post.json",
+                    "name": "Post"
+                }
+            ],
+            "filesize": 120087,
+            "dimensions": [
+                1920,
+                860
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/BBPMEubTT-w"
+        },
+        {
+            "filename": "35.jpg",
+            "thumbnail_url": "https:\/\/web.sociolib.com\/cabinet\/wp-content\/uploads\/sites\/6\/2023\/01\/35.jpg",
+            "templates": [
+                {
+                    "source": "templates\/mega-menu.json",
+                    "name": "Mega Menu"
+                }
+            ],
+            "filesize": 11766,
+            "dimensions": [
+                300,
+                450
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/SOTWYAgjhlE"
+        }
+    ]
+}

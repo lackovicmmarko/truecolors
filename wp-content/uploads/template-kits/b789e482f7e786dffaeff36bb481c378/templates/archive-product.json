@@ -1,0 +1,114 @@
+{
+    "version": "0.4",
+    "title": "Archive Product",
+    "type": "product-archive",
+    "metadata": {
+        "template_type": "archive-product",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "product-archive",
+        "elementor_pro_conditions": [
+            "include\/product_archive"
+        ],
+        "additional_template_information": [
+            "This is a \"Product Archive\" template for Elementor Pro.",
+            "This template will display on: All Product Archives."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "52b35c9",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "box_shadow_box_shadow_type": "yes",
+                "box_shadow_box_shadow": {
+                    "horizontal": "0",
+                    "vertical": "2",
+                    "blur": "4",
+                    "spread": "0",
+                    "color": "rgba(0, 0, 0, 0.05)"
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=5997b1e"
+                },
+                "_title": "Section: header single product",
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "53d93523",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "4581ae85",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "200",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "316847c2",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "58aa79d6",
+                            "settings": {
+                                "column_gap": {
+                                    "unit": "px",
+                                    "size": "40",
+                                    "sizes": []
+                                },
+                                "nothing_found_message": "It seems we can't find what you're looking for.",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=text",
+                                    "title_typography_typography": "globals\/typography?id=4653131",
+                                    "price_color": "globals\/colors?id=50345e2",
+                                    "price_typography_typography": "globals\/typography?id=4653131",
+                                    "old_price_color": "globals\/colors?id=50345e2",
+                                    "old_price_typography_typography": "globals\/typography?id=4653131",
+                                    "button_text_color": "globals\/colors?id=5997b1e",
+                                    "button_background_color": "globals\/colors?id=primary",
+                                    "button_typography_typography": "globals\/typography?id=c449c98"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "wc-archive-products",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ]
+}

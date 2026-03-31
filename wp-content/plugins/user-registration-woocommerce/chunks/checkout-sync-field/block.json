@@ -1,0 +1,43 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "urwc/checkout-sync-field",
+  "version": "1.0.0",
+  "title": "Checkout Sync Fields",
+  "category": "user-registration-woocommerce",
+  "description": "Select the registration form and its fields to sync with the checkout process during new user registration.",
+  "supports": {
+    "html": false,
+    "align": false,
+    "multiple": false,
+    "reusable": false
+  },
+  "keywords": [
+    "checkout"
+  ],
+  "parent": [
+    "woocommerce/checkout-contact-information-block"
+  ],
+  "attributes": {
+    "formId": {
+      "type": "string",
+      "default": ""
+    },
+    "selectedFields": {
+      "type": "array",
+      "default": []
+    },
+    "text": {
+      "type": "string",
+      "source": "html",
+      "selector": ".wp-block-user-registration-woocommerce",
+      "default": ""
+    },
+    "isChecked": {
+      "type": "boolean",
+      "default": false
+    }
+  },
+  "textdomain": "user-registration-woocommerce",
+  "editorStyle": "file:../../../build/style.css"
+}

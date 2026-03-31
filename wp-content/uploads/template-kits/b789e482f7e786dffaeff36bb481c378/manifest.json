@@ -1,0 +1,1436 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "BookChimp",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Track Order",
+            "screenshot": "screenshots\/track-order.jpg",
+            "source": "templates\/track-order.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/track-order\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/our-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=single-post-2",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post",
+                    "exclude\/singular\/page"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=shop",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive\/shop_page"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: Shop Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=single-post",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Checkout Page",
+            "screenshot": "screenshots\/checkout-page.jpg",
+            "source": "templates\/checkout-page.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=checkout-page",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/9"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Page #9."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Post",
+            "screenshot": "screenshots\/archive-post.jpg",
+            "source": "templates\/archive-post.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Product",
+            "screenshot": "screenshots\/archive-product.jpg",
+            "source": "templates\/archive-product.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=archive-product",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Cart Page",
+            "screenshot": "screenshots\/cart-page.jpg",
+            "source": "templates\/cart-page.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=single-page",
+            "type": "single-page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-page",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/8"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Page\" template for Elementor Pro.",
+                    "This template will display on: Page #8."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popups Banner",
+            "screenshot": "screenshots\/popups-banner.jpg",
+            "source": "templates\/popups-banner.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=popups-banner",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "WooCommerce",
+            "version": "5.5.1",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.3.0",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "newsletter-bg2.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/newsletter-bg2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 75555,
+            "dimensions": [
+                577,
+                430
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-homepage.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/06\/hero-homepage-800x424.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 99295,
+            "dimensions": [
+                1600,
+                848
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-reading-book-PXGAYRK"
+        },
+        {
+            "filename": "book4.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/book4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 34033,
+            "dimensions": [
+                270,
+                383
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/business-plan-MQXFA56"
+        },
+        {
+            "filename": "book2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/book2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 50103,
+            "dimensions": [
+                270,
+                383
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ebook-GL2CDDH"
+        },
+        {
+            "filename": "book6.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/book6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 48727,
+            "dimensions": [
+                270,
+                383
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ebook-ms-word-indesign-CX3USJT"
+        },
+        {
+            "filename": "book5.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/book5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 74439,
+            "dimensions": [
+                270,
+                383
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/brochure-W2JSZJ"
+        },
+        {
+            "filename": "business.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/business.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 33755,
+            "dimensions": [
+                163,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessmen-deliver-key-of-success-book-business-c-6MY3C89"
+        },
+        {
+            "filename": "children.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/children.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 42425,
+            "dimensions": [
+                163,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/friends-standing-and-reading-books-isolated-on-whi-NH5CUEW"
+        },
+        {
+            "filename": "Fiction.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/Fiction.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 45754,
+            "dimensions": [
+                163,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/books-in-library-PSWD2MY"
+        },
+        {
+            "filename": "Ebook.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/Ebook.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 45784,
+            "dimensions": [
+                163,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-freelancer-browsing-notebook-and-smartphone-MM9TVDS"
+        },
+        {
+            "filename": "Technology.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/Technology.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 37278,
+            "dimensions": [
+                163,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coding-NXCCPJY"
+        },
+        {
+            "filename": "Toys.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/Toys.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 54957,
+            "dimensions": [
+                163,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/little-diverse-girl-mixed-origine-reading-a-book-f-9YK75ZU"
+        },
+        {
+            "filename": "Manga.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/Manga.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 47388,
+            "dimensions": [
+                163,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/japanese-students-meeting-outdoors-4293TAM"
+        },
+        {
+            "filename": "Entrepreneur.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/Entrepreneur.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 42572,
+            "dimensions": [
+                163,
+                200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/talk-of-entrepreneurs-MQF4BVE"
+        },
+        {
+            "filename": "book1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/book1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 51807,
+            "dimensions": [
+                270,
+                383
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/e-book-M7NS3B"
+        },
+        {
+            "filename": "book66.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/book66.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 56008,
+            "dimensions": [
+                372,
+                526
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/brochure-W2JSZJ"
+        },
+        {
+            "filename": "author1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/author1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 19544,
+            "dimensions": [
+                163,
+                163
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/motivated-cheerful-and-glad-pleasant-caucasian-adu-M6NJPEF"
+        },
+        {
+            "filename": "book-cover.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/book-cover.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 63753,
+            "dimensions": [
+                578,
+                583
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/octavo-softcover-book-mockups-53KAZMU"
+        },
+        {
+            "filename": "psay1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/psay1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 21531,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-redhead-woman-keeps-hands-to-chest-makes-gra-DJ3B8SB"
+        },
+        {
+            "filename": "psay2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/psay2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 20501,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-bearded-young-male-model-rejoices-coming-w-2WV7SGH"
+        },
+        {
+            "filename": "psay3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/psay3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 23392,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/thankful-middle-aged-woman-presses-hands-to-chest--C224RNQ"
+        },
+        {
+            "filename": "hero-about.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-about-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/archive-post.json",
+                    "name": "Archive Post"
+                }
+            ],
+            "filesize": 99731,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-reading-book-PXGAYRK"
+        },
+        {
+            "filename": "about-sect.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/about-sect.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 52882,
+            "dimensions": [
+                579,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-on-laptop-at-home-2UAAEGN"
+        },
+        {
+            "filename": "about-sect2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/about-sect2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 66786,
+            "dimensions": [
+                578,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/busy-teenage-male-student-in-headphones-reading-bo-58F3MCV"
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 37986,
+            "dimensions": [
+                680,
+                680
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 50625,
+            "dimensions": [
+                680,
+                680
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "team3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/team3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 69866,
+            "dimensions": [
+                680,
+                680
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "hero-pricing.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-pricing-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 90945,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mother-reading-a-book-PNJT6SX"
+        },
+        {
+            "filename": "services1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/services1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 51955,
+            "dimensions": [
+                744,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/school-kids-reading-books-in-library-at-school-A2BKWER"
+        },
+        {
+            "filename": "services2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/services2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 34581,
+            "dimensions": [
+                744,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/homeschooling-lesson-PLN47MV"
+        },
+        {
+            "filename": "services3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/services3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 40443,
+            "dimensions": [
+                744,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "q-quest.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/q-quest.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 58837,
+            "dimensions": [
+                575,
+                564
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/operator-working-in-customer-service-2HYRYWA"
+        },
+        {
+            "filename": "hero-team.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-team-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 99145,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-team-at-work-PLKK527"
+        },
+        {
+            "filename": "staff1.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/staff1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 20184,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "staff4.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/staff4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 25848,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "staff2.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/staff2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 25647,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "staff5.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/staff5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 23654,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "staff3.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/staff3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 24878,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "staff6.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/staff6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 24736,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-group-of-ethnically-diverse-professional-b-E54D7RY"
+        },
+        {
+            "filename": "hero-track.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-track-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/track-order.json",
+                    "name": "Track Order"
+                }
+            ],
+            "filesize": 85706,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-ordering-the-car-Q4KUQZR"
+        },
+        {
+            "filename": "track-page.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/track-page.jpg",
+            "templates": [
+                {
+                    "source": "templates\/track-order.json",
+                    "name": "Track Order"
+                }
+            ],
+            "filesize": 48484,
+            "dimensions": [
+                578,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-on-laptop-at-home-JGXRE64"
+        },
+        {
+            "filename": "hero-services.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-services-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 86290,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/reading-at-break-PASV49R"
+        },
+        {
+            "filename": "services4.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/services4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 22207,
+            "dimensions": [
+                744,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handshake-CDXVDBD"
+        },
+        {
+            "filename": "services5.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/services5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 32284,
+            "dimensions": [
+                744,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/midsection-of-businesswoman-writing-in-book-99AZQCY"
+        },
+        {
+            "filename": "services6.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/services6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 52182,
+            "dimensions": [
+                744,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-people-writing-down-on-a-notebook-D3QHEV5"
+        },
+        {
+            "filename": "whychoose-services.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/whychoose-services.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services.json",
+                    "name": "Our Services"
+                }
+            ],
+            "filesize": 55810,
+            "dimensions": [
+                578,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-working-in-home-office-JLBK2DZ"
+        },
+        {
+            "filename": "hero-faq.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-faq-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 85497,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/questions-after-seminar-435LQ68"
+        },
+        {
+            "filename": "hero-testimonials.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-testimonials-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 73365,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mother-reading-a-book-PM9N6PZ"
+        },
+        {
+            "filename": "hero-blog.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-blog-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 95948,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/reading-book-in-library-TDA2NPY"
+        },
+        {
+            "filename": "hero-contact.jpg",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/hero-contact-800x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 86992,
+            "dimensions": [
+                1600,
+                499
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-reading-book-at-home-by-the-window-DQV5HB9"
+        },
+        {
+            "filename": "el404.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/el404.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 2005,
+            "dimensions": [
+                131,
+                117
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404.png",
+            "thumbnail_url": "https:\/\/templatekits.themewarrior.com\/bookchimp\/wp-content\/uploads\/sites\/22\/2021\/07\/404.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 111430,
+            "dimensions": [
+                579,
+                612
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confused-nerd-boy-reading-book-home-education-conc-APCDFVB"
+        }
+    ]
+}
